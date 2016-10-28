@@ -1,4 +1,4 @@
-name: Federalist Documentation
+name: Open Data Tool Kit
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -22,28 +22,28 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F - Federalist
-  url: https://federalist.18f.gov
+  name: Code for Aotearoa
+  url: http://codeforaotearoa.org
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /uploads/logo.svg
-logoalt: Federalist logo
+logoalt: Not the Code for Aotearoa logo
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: About Federalist
+- text: About the Open Data Tool Kit
   url: index.html
   internal: true
-- text: Using Federalist
-  url: pages/using-federalist/
+- text: Learn about Open Data
+  url: pages/learn/
   internal: true
   children:
   - text: Launch Checklist
     url: launch-checklist/
     internal: true
-- text: Content Guide
-  url: pages/content-guide/
+- text: Access the toolkit
+  url: pages/toolkit/
   internal: true
   children:
   - text: Writing content for your homepage
@@ -61,23 +61,19 @@ navigation:
   - text: Best practices for content
     url: best-practices-for-content/
     internal: true
-- text: Custom Templates
-  url: pages/custom-templates/
+- text: Join the community
+  url: pages/community/
   internal: true
-- text: How Federalist Works
-  url: pages/how-federalist-works/
+- text: Give us feedback
+  url: pages/feedback/
   internal: true
 
 repos:
-- name: Federalist
-  description: Documentation repository
-  url: https://github.com/18F/federalist-docs
+- name: Open Data Tool Kit Github Repo
+  description: Toolkit Github repository
+  url: https://github.com/codeforaotearoa/open-data-tool-kit
 
-back_link:
-  url: "https://federalist.18f.gov/"
-  text: Back to Federalist
-
-google_analytics_ua: UA-48605964-19
+google_analytics_ua: NA
 
 defaults:
 - scope:
