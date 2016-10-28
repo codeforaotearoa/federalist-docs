@@ -73,7 +73,7 @@ repos:
   description: Toolkit Github repository
   url: https://github.com/codeforaotearoa/open-data-tool-kit
 
-google_analytics_ua: NA
+google_analytics_ua: UA-84242199-2
 
 defaults:
 - scope:
