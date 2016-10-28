@@ -36,11 +36,11 @@ navigation:
   url: index.html
   internal: true
 - text: Learn about Open Data
-  url: pages/learn/
+  url: pages/learn/what-is-open-data.md
   internal: true
   children:
   - text: Launch Checklist
-    url: launch-checklist/
+    url: what-is-open-data
     internal: true
 - text: Access the toolkit
   url: pages/toolkit/
