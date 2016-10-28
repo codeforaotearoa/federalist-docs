@@ -33,7 +33,7 @@ logoalt: Not the Code for Aotearoa logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: About the Open Data Tool Kit
-  url: index.html
+  url: about
   internal: true
 - text: Learn about Open Data
   url: pages/learn/
