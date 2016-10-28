@@ -36,34 +36,35 @@ navigation:
   url: index.html
   internal: true
 - text: Learn about Open Data
-  url: pages/learn/what-is-open-data.md
+  url: pages/learn/
   internal: true
   children:
-  - text: Launch Checklist
+  - text: What is Open Data?
     url: what-is-open-data
+    internal: true
+  - text: Why use Open Data?
+    url: why-open-data
+    internal: true
+  - text: Open Data Charter
+    url: open-data-charter
     internal: true
 - text: Access the toolkit
   url: pages/toolkit/
   internal: true
   children:
-  - text: Writing content for your homepage
-    url: writing-content-for-your-federalist-homepage/
-    internal: true
-  - text: Writing about your team
-    url: best-practices-for-writing-who-we-are/
-    internal: true
-  - text: Writing about your research
-    url: best-practices-for-writing-what-we-do/
-    internal: true
-  - text: Writing clear contact forms
-    url: contact-forms/
-    internal: true
-  - text: Best practices for content
-    url: best-practices-for-content/
+  - text: Licensing
+    url: licensing
     internal: true
 - text: Join the community
   url: pages/community/
   internal: true
+  children:
+  - text: New Zealand
+    url: new-zealad
+    internal: true
+  - text: International
+    url: international
+    internal: true
 - text: Give us feedback
   url: pages/feedback/
   internal: true
