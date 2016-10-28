@@ -33,39 +33,43 @@ logoalt: Not the Code for Aotearoa logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: About the Open Data Tool Kit
-  url: index.html
+  url: about
   internal: true
 - text: Learn about Open Data
   url: pages/learn/
   internal: true
   children:
-  - text: Launch Checklist
-    url: launch-checklist/
+  - text: What is Open Data?
+    url: what-is-open-data
     internal: true
+  - text: Why use Open Data?
+    url: why-open-data
+    internal: true
+  - text: Open Data Charter
+    url: open-data-charter
+    internal: true
+- text: Getting Started
+  url: getting-started
+  internal: true
 - text: Access the toolkit
   url: pages/toolkit/
   internal: true
   children:
-  - text: Writing content for your homepage
-    url: writing-content-for-your-federalist-homepage/
-    internal: true
-  - text: Writing about your team
-    url: best-practices-for-writing-who-we-are/
-    internal: true
-  - text: Writing about your research
-    url: best-practices-for-writing-what-we-do/
-    internal: true
-  - text: Writing clear contact forms
-    url: contact-forms/
-    internal: true
-  - text: Best practices for content
-    url: best-practices-for-content/
+  - text: Licensing
+    url: licensing
     internal: true
 - text: Join the community
   url: pages/community/
   internal: true
+  children:
+  - text: New Zealand
+    url: new-zealand
+    internal: true
+  - text: International
+    url: international
+    internal: true
 - text: Give us feedback
-  url: pages/feedback/
+  url: feedback
   internal: true
 
 repos:
