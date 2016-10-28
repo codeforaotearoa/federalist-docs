@@ -48,6 +48,9 @@ navigation:
   - text: Open Data Charter
     url: open-data-charter
     internal: true
+- text: Getting Started
+  url: getting-started
+  internal: true
 - text: Access the toolkit
   url: pages/toolkit/
   internal: true
@@ -60,13 +63,13 @@ navigation:
   internal: true
   children:
   - text: New Zealand
-    url: new-zealad
+    url: new-zealand
     internal: true
   - text: International
     url: international
     internal: true
 - text: Give us feedback
-  url: pages/feedback/
+  url: feedback
   internal: true
 
 repos:
