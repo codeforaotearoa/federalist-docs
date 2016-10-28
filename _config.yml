@@ -26,14 +26,14 @@ author:
   url: http://codeforaotearoa.org
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /uploads/logo.svg
+logourl: /uploads/logo.png
 logoalt: Not the Code for Aotearoa logo
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
 - text: About the Open Data Tool Kit
-  url: index.html
+  url: about
   internal: true
 - text: Learn about Open Data
   url: pages/learn/
@@ -80,7 +80,7 @@ repos:
   description: Toolkit Github repository
   url: https://github.com/codeforaotearoa/open-data-tool-kit
 
-google_analytics_ua: NA
+google_analytics_ua: UA-84242199-2
 
 defaults:
 - scope:

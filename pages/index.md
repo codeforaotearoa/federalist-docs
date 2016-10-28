@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About the Open Data Tool Kit
+title: Home
 ---
 
-Under Construction
+Home
