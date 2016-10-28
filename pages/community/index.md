@@ -1,4 +1,4 @@
 ---
-title: Community
+title: New Zealand
 parent: Community
 ---
