@@ -71,6 +71,9 @@ navigation:
 - text: Give us feedback
   url: feedback
   internal: true
+- text: about
+  url: about
+  internal: true
 
 repos:
 - name: Open Data Tool Kit Github Repo
