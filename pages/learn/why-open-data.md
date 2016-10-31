@@ -29,4 +29,16 @@ Well, I'm sure there are other alternatives but this crafty application of data 
 
 It worked!
 
-Funnily enough, citizens also started expressing their affection for their favourite trees as well, writing in to say how much they 
+Funnily enough, citizens also started expressing their affection for their favourite trees as well, writing in to say how much they adored their luscious leaves or that they were upset about trucks scraping the undersides of branches.
+
+Those are just a few examples of how Open Data can be utilised and even disguised as a novelty at the same time making it much more attractive than something like a survey.
+
+Sources:
+
+  - [http://www.citymetric.com/horizons/story-melbournes-tree-mail-shows-trees-are-more-just-ecosystem-1264](http://www.citymetric.com/horizons/story-melbournes-tree-mail-shows-trees-are-more-just-ecosystem-1264)
+  - [http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/](http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/)
+  - [http://melbourneurbanforestvisual.com.au](http://melbourneurbanforestvisual.com.au)
+  - [http://www.abc.net.au/news/2015-07-22/most-emailed-tree-in-melbourne-is-punt-rd-golden-elm/6639062](http://www.abc.net.au/news/2015-07-22/most-emailed-tree-in-melbourne-is-punt-rd-golden-elm/6639062)
+  - [http://adoptatree.brewingabetterforest.com/](http://adoptatree.brewingabetterforest.com/)
+  - [http://old.codeforamerica.org/?cfa_app=adopt-a-hydrant-2](http://old.codeforamerica.org/?cfa_app=adopt-a-hydrant-2)
+  - [http://www.accuweather.com/en/weather-news/adopt-a-hydrant-snowstorms/19897879](http://www.accuweather.com/en/weather-news/adopt-a-hydrant-snowstorms/19897879)
