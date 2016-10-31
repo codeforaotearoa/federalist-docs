@@ -19,4 +19,14 @@ This was exactly the type of problem solved by [Adopt A Hydrant](http://www.adop
 
 You can read more about the story [here](http://www.accuweather.com/en/weather-news/adopt-a-hydrant-snowstorms/19897879) but it's a good example of how you can "gamify" data and get citizens engaged in city affairs in a way that they otherwise wouldn't have.
 
-Best of all, it's [open source](https://github.com/codeforamerica/adopt-a-hydrant) as well which means anyone can take the application and with a bit of retooling, adapt it to fit their city too. There have been a few interesting spin offs already like [Adopt A Siren](http://sirens.honolulu.gov/) in Honolulu
+Best of all, it's [open source](https://github.com/codeforamerica/adopt-a-hydrant) as well which means anyone can take the application and with a bit of retooling, adapt it to fit their city too. There have been a few interesting spin offs already like [Adopt A Siren](http://sirens.honolulu.gov/) in Honolulu.
+
+### [Email A Tree](http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/)
+
+What do you do if you're a city that has an ever expanding amount of trees but not enough resources to monitor them all? Give them email addresses!
+
+Well, I'm sure there are other alternatives but this crafty application of data and technology produced a website that let Melbourne citizens email specific trees to report issues like broken branches or fallen leaves.
+
+It worked!
+
+Funnily enough, citizens also started expressing their affection for their favourite trees as well, writing in to say how much they 
