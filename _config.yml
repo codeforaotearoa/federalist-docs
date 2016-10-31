@@ -10,6 +10,9 @@ exclude:
 include:
   - _navigation.json
 
+# This changes the default compilation from "_site" to "docs" so we can host the files on Github Pages
+destination: docs
+
 permalink: pretty
 highlighter: rouge
 incremental: true
