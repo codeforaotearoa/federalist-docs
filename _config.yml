@@ -40,7 +40,7 @@ navigation:
   internal: true
   children:
   - text: What is Open Data?
-    url: what-is-open-data
+    url: 
     internal: true
   - text: Why use Open Data?
     url: why-open-data
@@ -71,7 +71,7 @@ navigation:
 - text: Give us feedback
   url: feedback
   internal: true
-- text: about
+- text: About
   url: about
   internal: true
 
