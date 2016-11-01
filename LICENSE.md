@@ -1,28 +1,38 @@
-=== OPEN DATA TOOL KIT LICENSE ===
+**OPEN DATA TOOL KIT LICENSE**
 
-The MIT License (MIT)
+## CC4 Universal Summary
 
-Copyright (c) 2016 Vaishnavi Iyer and Marcus Crane <marcus@thingsima.de>
+This is a human-readable summary of the [Legal Code (read the full text)](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Sharing
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are free to copy and redistribute the material in this toolkit in any medium or format.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Adaption
 
-=== ORIGINAL FEDERALIST DOCUMENTATION LICENSE ===
+You are also free to remix, transform, and build upon the material presented in this toolkit.
+
+It may be for any purpose, even commericially.
+
+As long as you follow the license terms, the licensor cannot revoke the above freedoms.
+
+### Attribution
+
+Under the terms of Creative Commons Attributions 4.0 International, you must however, give [appropriate credit](https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart), provide a link to the license, and [indicate if changes were made](http://wiki.creativecommons.org/Best_practices_for_attribution).
+
+You are free to do so in any reasonable that you see fit, as long as it is not portrayed in a way that suggests the licensor endorses you or your use.
+
+That said though, we'd love to give you a shoutout if you make some cool stuff ;)
+
+### No additional restrictions
+
+You may not apply legal terms or [technological measures](http://wiki.creativecommons.org/License_Versions#Application_of_effective_technological_measures_by_users_of_CC-licensed_works_prohibited) that legally restrict others from doing anything the license permits
+
+### Warranties (or the lack of)
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+**ORIGINAL FEDERALIST DOCUMENTATION LICENSE**
 
 As a work of the United States Government, this project is in the
 public domain within the United States.
