@@ -90,3 +90,8 @@ defaults:
     path: ""
   values:
     layout: "guides_style_18f_default"
+
+- scope:
+    path: "pages/feedback"
+  values:
+    layout: "feedback"
