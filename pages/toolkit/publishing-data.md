@@ -1,11 +1,13 @@
 ---
-title: How to publish data to data.govt.nz: Step by Step
+title: Publishing datasets to data.govt.nz | A step by step guide
 parent: Toolkit
 ---
 
 _This guide will be likely be most useful to IT managers, GIS coordinators, asset managers and database administrators._
 
 This guide is aimed at general, easily uploadable datasets such as PDFs, CSVs, spreadsheets and so on. Larger, more complex datasets, eg; geospatial will likely be unable to utilise [data.govt.nz](https://data.govt.nz) and may prefer to look into their own hosting solutions.
+
+![Data.govt.nz homepage](http://localhost:4000/uploads/publishing-data/01-homepage.jpg)
 
 The general process for uploading a dataset is as follows:
 
@@ -29,3 +31,23 @@ Some examples of good starting datasets that don't change frequently would be **
 ## 3.3 Creating the datasets
 
 From the front page of the [data.govt.nz](https://data.govt.nz) website, you'll be able to see an **Add Data** button in the top right corner followed by **Submit Dataset** on the next page.
+
+![data.govt.nz submission page](http://localhost:4000/uploads/publishing-data/02-submit.jpg)
+
+Your submission to data.govt.nz will a few pieces of information:
+
+  - Dataset title
+  - A direct link to the dataset
+  - A description of the dataset
+  - The category it fits under
+  - The formats it is available is
+  - Re-use rights / license (**See below**)
+  - Update frequency (daily, monthly, yearly?)
+  - Title of the agency responsible for the dataset
+  - A contact email address (which will **NOT** be published)
+
+#### Deciding on a license
+
+Licensing is easily the most important aspect of releasing your dataset. It will determine whether or not your dataset can be used for a commercial purpose, publically redistributed and/or whether or not others have to provide attribution for your work.
+
+For assistance in deciding
