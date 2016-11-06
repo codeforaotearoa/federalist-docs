@@ -16,9 +16,8 @@ The general process for uploading a dataset is as follows:
 
 1. Identify datasets to publish
 2. For each dataset:
-  1. Identify a standard to follow, if possible
-  2. Export the data, conforming to the set standard
-  3. Upload the dataset to data.govt.nz, providing metadata and choosing an appropriate license
+  1. Export the data and ensure it is cleaned, raw data
+  2. Upload the dataset to data.govt.nz, providing metadata and choosing an appropriate license
 3. Schedule regular updates
 
 ## 1.0 Identify datasets to publish
@@ -123,7 +122,7 @@ Any **tabular** data should also be cleansed. This means that files should be:
     <tr>
       <th>Date</th>
       <th>Age</th>
-      <th>Gender</th>
+      <th>Gender</thSchedule regular updatesupdates>
       <th>Postcode</th>
     </tr>
   </thead>
@@ -236,3 +235,9 @@ For assistance in deciding, you may wish to consult the [NZGOAL framework](https
 Once you've successfully uploaded your dataset, you should be able to see it live like so in the catalogue:
 
 ![data.govt.nz dataset catalogue entry](http://localhost:4000/uploads/publishing-data/03-completed-dataset.jpg)
+
+## 3.0 Schedule regular updates
+
+It's important to keep a schedule of how often the datasets you have provided are updated. Some datasets may not need updating very often but others, such as weekly gas prices, will be at their peak usefulness should they be updated in a timely manner.
+
+For the example of gas prices, it wouldn't make sense to only update the dataset once a month and interested users would likely look somewhere else for fresher data.
