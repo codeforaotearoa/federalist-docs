@@ -60,11 +60,6 @@ The core principles of NZDIMP are:
 - Reasonably priced
 - Reusable
 
-NZDIMP and Open Data Charter:
-//want to add more information here, but waiting on rochelle's document as i don't want to create a conflict here.
-
-
-
 Should New Zealand adopt the charter?
 
 This is not a simple question and doesn't have a staright-forward answer. There has been a lot of discussion going on around this and to participate in this discussion and read more about it, follow the links below.
