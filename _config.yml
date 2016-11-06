@@ -46,8 +46,11 @@ navigation:
   - text: What is Open Data?
     url:
     internal: true
-  - text: Why use Open Data?
+  - text: Why Open Data?
     url: why-open-data
+    internal: true
+  - text: Examples of Open Data usage
+    url: examples-of-open-data-usage
     internal: true
   - text: Open Data Charter
     url: open-data-charter

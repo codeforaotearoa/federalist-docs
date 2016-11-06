@@ -1,5 +1,5 @@
 ---
-title: Examples of Open Data
+title: Examples of Open Data usage
 parent: Learn
 ---
 
