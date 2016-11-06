@@ -52,8 +52,8 @@ navigation:
   - text: Examples of Open Data usage
     url: examples-of-open-data-usage
     internal: true
-  - text: Open Data Charter
-    url: open-data-charter
+  - text: Open Data Charter and NZDIMP
+    url: open-data-charter-and-nzdimp
     internal: true
 - text: Getting Started
   url: getting-started
