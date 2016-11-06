@@ -28,4 +28,4 @@ Some examples of good starting datasets that don't change frequently would be **
 
 ## 3.3 Creating the datasets
 
-From the front page of the [data.govt.nz](https://data.govt.nz)
+From the front page of the [data.govt.nz](https://data.govt.nz) website, you'll be able to see an **Add Data** button in the top right corner followed by **Submit Dataset** on the next page.
