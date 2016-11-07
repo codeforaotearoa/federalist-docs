@@ -65,6 +65,9 @@ navigation:
   - text: Licensing
     url: licensing
     internal: true
+  - text: Publishing to data.govt.nz
+    url: publishing-data
+    internal: true
 - text: Join the community
   url: pages/community/
   internal: true
