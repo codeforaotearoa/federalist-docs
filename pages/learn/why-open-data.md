@@ -3,42 +3,50 @@ title: Why Open Data?
 parent: Learn
 ---
 
-Better title: Examples of Open Data usage?
+Doing Open data is not easy, requires time and resources, and also a challenge to make sure one doesn't cross the fine line between transparency and privacy.
+So if it is so challenging and requires money, then the question is : Is it worth it?
 
-So, you think Open Data sounds like a really swell proposition but you're still itching to know what it can help accomplish? Surely people aren't interesting X dataset are they?
+Watch this video by Open Data NZ team and listen to the team talk about its potentials...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bwX5MAZ6zKI" frameborder="1" allowfullscreen></iframe>
 
-Let us introduce you to a few Open Data oddities that have popped up over the past few years. They may seem peculiar but there's no doubt that they've definitely challenged the assumptions about how useful any given data set may be!
+This is just the tip of the iceberg, there is much more to this. Imagine how much more potential it has when we start talking about collaboration between different agencies and governements. 
 
-### [Adopt A Hydrant](http://www.adoptahydrant.org/)
+Some of the key areas where Open Government Data is creating value are: 
 
-Adopt a what? Yup, you heard me right. The precise location of fire hydrants in Boston City may put you to sleep at first but what if someone took it and made something, not only enjoyable but also beneficial to the city?
+- Transparency and democratic control
+- Participation
+- Self-empowerment
+- Improved or new private products and services
+- Innovation
+- Improved efficiency of government services
+- Improved effectiveness of government services
+- Impact measurement of policies
+- New knowledge from combined data sources and patterns in large data volumes
 
-A typical snow storm in Boston can blanket the city for days, forcing residents to shovel their driveways but other utilities can remain lost for days. In a life or death situation like a burning build, a firefighter may not have time to dig out a hydrant, let alone spend the time necessarily to locate it under such heavy snowfall.
+A few examples that validate the above:
 
-This was exactly the type of problem solved by [Adopt A Hydrant](http://www.adoptahydrant.org/) using Open Data. Citizens of Boston could 'adopt' a hydrant of their own which they kept clean and shovelled. If they didn't keep up their responsibilities in a timely manner, neighbours would have the opportunity to "steal" their hydrant away from them!
+- The ['tax tree'] and ['where does my money go'](http://app.wheredoesmymoneygo.org//) are projects that show how tax money is being spent by government. 
+- And there’s the example of [how open data saved Canada $3.2 billion in charity tax fraud](https://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/). 
+- Also various websites such as the Danish [folketsting.dk](folketsting.dk) track activity in parliament and the law making processes, so you can see what exactly is happening, and which parliamentarians are involved.
+- It also helps in making more informed personal life decisions, A woman in Denmark built website, which showed all the [Danish public toilets](http://beta.findtoilet.dk/), so that people she knew with bladder problems can now trust themselves to go out more again.
 
-You can read more about the story [here](http://www.accuweather.com/en/weather-news/adopt-a-hydrant-snowstorms/19897879) but it's a good example of how you can "gamify" data and get citizens engaged in city affairs in a way that they otherwise wouldn't have.
+For more examples, see [here](/pages/learn/examples-of-open-data-usage).
 
-Best of all, it's [open source](https://github.com/codeforamerica/adopt-a-hydrant) as well which means anyone can take the application and with a bit of retooling, adapt it to fit their city too. There have been a few interesting spin offs already like [Adopt A Siren](http://sirens.honolulu.gov/) in Honolulu.
+In summary, key benefits of open data include:
 
-### [Email A Tree](http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/)
+- Promoting greater transparency and engagement between government and community-members by allowing scope for data to be analysed and visualised in unique and different ways (where government may not always have the expertise or resources to do so). This can lead to a more engaged, connected and informed community and can help highlight some of the work councils are doing behind the scenes to collect and manage public data.
+- Facilitating social and commercial innovation, by allowing the growth of new business and service models that rely on open data.
+- Improving service delivery and community satisfaction by allowing citizens to interact with public government data via online interfaces or community-developed apps.
 
-What do you do if you're a city that has an ever expanding amount of trees but not enough resources to monitor them all? Give them email addresses!
+In the computer world there is something called Linus’ Law, which states: “given enough eyeballs, all bugs (problems) are shallow.” and one can draw parallels from it for almost everything. 
+There can also be long-term or unforeseen benefits in opening data. This is because it is not always possible to predict the kinds of innovation that may evolve in response to the release of open data.
 
-Well, I'm sure there are other alternatives but this crafty application of data and technology produced a website that let Melbourne citizens email specific trees to report issues like broken branches or fallen leaves.
 
-It worked!
+###Sources
 
-Funnily enough, citizens also started expressing their affection for their favourite trees as well, writing in to say how much they adored their luscious leaves or that they were upset about trucks scraping the undersides of branches.
-
-Those are just a few examples of how Open Data can be utilised and even disguised as a novelty at the same time making it much more attractive than something like a survey.
-
-Sources:
-
-  - [http://www.citymetric.com/horizons/story-melbournes-tree-mail-shows-trees-are-more-just-ecosystem-1264](http://www.citymetric.com/horizons/story-melbournes-tree-mail-shows-trees-are-more-just-ecosystem-1264)
-  - [http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/](http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/)
-  - [http://melbourneurbanforestvisual.com.au](http://melbourneurbanforestvisual.com.au)
-  - [http://www.abc.net.au/news/2015-07-22/most-emailed-tree-in-melbourne-is-punt-rd-golden-elm/6639062](http://www.abc.net.au/news/2015-07-22/most-emailed-tree-in-melbourne-is-punt-rd-golden-elm/6639062)
-  - [http://adoptatree.brewingabetterforest.com/](http://adoptatree.brewingabetterforest.com/)
-  - [http://old.codeforamerica.org/?cfa_app=adopt-a-hydrant-2](http://old.codeforamerica.org/?cfa_app=adopt-a-hydrant-2)
-  - [http://www.accuweather.com/en/weather-news/adopt-a-hydrant-snowstorms/19897879](http://www.accuweather.com/en/weather-news/adopt-a-hydrant-snowstorms/19897879)
+- Open Knowledge [‘What is Open?’](https://okfn.org/opendata/) and ['Why Open Data?'](https://okfn.org/opendata/why-open-data/) licensed under CC BY 4.0 International Licence
+- [Open Data Field Guide](https://socrata.com/open-data-field-guide/) – Socrata
+- Further case studies are available via the [Open Data Institute](http://theodi.org/case-studies)
+- [Open Data Playbook](http://archive.codeforamerica.org/practices/open/open-data/#groundwork) – Code for America
+- [Open Data in 60 Seconds](http://opendatatoolkit.worldbank.org/en/open-data-in-60-seconds.html) – World Bank
+- [Open Data Handbook](http://opendatahandbook.org/guide/en/why-open-data/)
