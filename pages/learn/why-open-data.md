@@ -3,7 +3,7 @@ title: Why Open Data?
 parent: Learn
 ---
 
-Doing Open data is not easy, requires time and resources, and also a challenge to make sure one doesn't cross the fine line of open data and privacy.
+Doing Open data is not easy, requires time and resources, and also a challenge to make sure one doesn't cross the fine line between transparency and privacy.
 So if it is so challenging and requires money, then the question is : Is it worth it?
 
 Watch this video by Open Data NZ team and listen to the team talk about its potentials...
