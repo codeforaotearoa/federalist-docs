@@ -1,4 +1,4 @@
-# OUT OF DATE => NEW VERSION IS [HERE](https://codeforaotearoa.github.com/codeforaotearoa/opendata-toolkit)
+# OUT OF DATE => NEW VERSION IS [HERE](https://github.com/codeforaotearoa/opendata-toolkit)
 
 ### Open Data Tool Kit
 
